@@ -1,0 +1,16 @@
+theme = "gruvbox_dark_soft"
+# "tokyonight_storm"/ moon
+# "github_dark_dimmed"
+# "onedark"
+# "kanagawa"
+# "kaolin-valley-dark"
+
+[editor]
+middle-click-paste = false
+completion-timeout = 100
+completion-replace = true
+trim-trailing-whitespace = true
+end-of-line-diagnostics = "hint"
+
+[editor.inline-diagnostics]
+cursor-line = "warning"
